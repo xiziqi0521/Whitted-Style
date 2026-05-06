@@ -39,7 +39,7 @@
 - ✅ **Phong光照模型** - 环境光 + 漫反射 + 镜面高光
 - ✅ **实时交互** - 动态调整光源位置和渲染参数
 - ✅ **Bug修复** - 解决Shadow Acne（阴影粉刺）问题
-![基础版演示]<img width="400" height="321" alt="111" src="https://github.com/user-attachments/assets/e538e5af-bd6b-48d4-90c7-a929beab7053" />
+- <img width="400" height="321" alt="111" src="https://github.com/user-attachments/assets/e538e5af-bd6b-48d4-90c7-a929beab7053" />
 
 
 ### 高级版本（选做内容，+25%加分）
@@ -51,7 +51,7 @@
   - 像素内多重采样（1-16x）
   - 随机偏移采样
   - 平滑物体边缘
-![高级版演示]<img width="400" height="321" alt="222" src="https://github.com/user-attachments/assets/26a036b4-4a6d-490d-9031-0c78c2da0114" />
+  - <img width="400" height="321" alt="222" src="https://github.com/user-attachments/assets/26a036b4-4a6d-490d-9031-0c78c2da0114" />
 
 ---
 
