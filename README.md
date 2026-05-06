@@ -51,7 +51,7 @@
   - 像素内多重采样（1-16x）
   - 随机偏移采样
   - 平滑物体边缘
-  - <img width="400" height="321" alt="222" src="https://github.com/user-attachments/assets/26a036b4-4a6d-490d-9031-0c78c2da0114" />
+- <img width="400" height="321" alt="222" src="https://github.com/user-attachments/assets/26a036b4-4a6d-490d-9031-0c78c2da0114" />
 
 ---
 
