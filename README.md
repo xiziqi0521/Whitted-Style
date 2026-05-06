@@ -65,14 +65,8 @@
 ### 安装依赖
 
 ```bash
-# 克隆仓库
-git clone https://github.com/your-username/ray-tracer.git
-cd ray-tracer
-
 # 安装依赖
 pip install taichi
-# 或使用 requirements.txt
-pip install -r requirements.txt
 ```
 
 ### 运行程序
