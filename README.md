@@ -1,5 +1,5 @@
 # Whitted-Style 光线追踪器
-
+# 202411081099 计算机科学与技术 席子琦
 <div align="center">
 
 **基于 Taichi 的 GPU 加速光线追踪实验项目**
